@@ -1,0 +1,219 @@
+PIMPLE: Iteration 1
+Rigid-body motion of the hull
+    Centre of rotation: (2.92954 0 0.0686241)
+    Orientation: (0.993575 0 -0.113176 0 1 0 0.113176 0 0.993575)
+    Linear velocity: (0 0 -0.317473)
+    Angular velocity: (0 0.206833 0)
+GAMG:  Solving for pcorr, Initial residual = 1, Final residual = 0.000879247, No Iterations 19
+time step continuity errors : sum local = 8.4973e-12, global = -1.88158e-12, cumulative = -2.28093e-10
+smoothSolver:  Solving for alpha.water, Initial residual = 3.51415e-06, Final residual = 1.42247e-12, No Iterations 2
+Phase-1 volume fraction = 0.812205  Min(alpha.water) = -1.52864e-12  Max(alpha.water) = 1
+Applying the previous iteration compression flux
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+Phase-1 volume fraction = 0.812205  Min(alpha.water) = -7.31461e-08  Max(alpha.water) = 1
+GAMG:  Solving for p_rgh, Initial residual = 0.00906349, Final residual = 4.0991e-08, No Iterations 18
+time step continuity errors : sum local = 1.01493e-11, global = -8.09083e-13, cumulative = -2.28902e-10
+PIMPLE: Iteration 2
+Rigid-body motion of the hull
+    Centre of rotation: (2.92954 0 0.0686241)
+    Orientation: (0.993575 0 -0.113176 0 1 0 0.113176 0 0.993575)
+    Linear velocity: (0 0 -0.317473)
+    Angular velocity: (0 0.206833 0)
+GAMG:  Solving for pcorr, Initial residual = 1, Final residual = 0.000899876, No Iterations 34
+time step continuity errors : sum local = 2.93301e-14, global = -3.89669e-15, cumulative = -2.28906e-10
+smoothSolver:  Solving for alpha.water, Initial residual = 2.54221e-06, Final residual = 1.23893e-12, No Iterations 2
+Phase-1 volume fraction = 0.812205  Min(alpha.water) = -1.36217e-12  Max(alpha.water) = 1
+Applying the previous iteration compression flux
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+Phase-1 volume fraction = 0.812205  Min(alpha.water) = -1.80245e-07  Max(alpha.water) = 1
+GAMG:  Solving for p_rgh, Initial residual = 0.000167496, Final residual = 4.20613e-08, No Iterations 10
+time step continuity errors : sum local = 1.03572e-11, global = -2.07194e-13, cumulative = -2.29113e-10
+PIMPLE: Iteration 3
+Rigid-body motion of the hull
+    Centre of rotation: (2.92954 0 0.068624)
+    Orientation: (0.993575 0 -0.113176 0 1 0 0.113176 0 0.993575)
+    Linear velocity: (0 0 -0.317488)
+    Angular velocity: (0 0.206815 0)
+GAMG:  Solving for pcorr, Initial residual = 1, Final residual = 0.000889661, No Iterations 31
+time step continuity errors : sum local = 4.24429e-14, global = -3.2075e-15, cumulative = -2.29116e-10
+smoothSolver:  Solving for alpha.water, Initial residual = 2.53966e-06, Final residual = 1.23545e-12, No Iterations 2
+Phase-1 volume fraction = 0.812205  Min(alpha.water) = -1.36874e-12  Max(alpha.water) = 1
+Applying the previous iteration compression flux
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+Phase-1 volume fraction = 0.812205  Min(alpha.water) = -2.18019e-08  Max(alpha.water) = 1
+GAMG:  Solving for p_rgh, Initial residual = 3.15055e-05, Final residual = 4.6928e-08, No Iterations 6
+time step continuity errors : sum local = 1.14955e-11, global = -3.79539e-13, cumulative = -2.29496e-10
+smoothSolver:  Solving for omega, Initial residual = 6.2502e-05, Final residual = 2.55392e-09, No Iterations 1
+smoothSolver:  Solving for k, Initial residual = 7.36981e-05, Final residual = 1.00737e-08, No Iterations 1
+ExecutionTime = 3245.3 s  ClockTime = 3254 s
+
+forces forces write:
+    sum of forces:
+        pressure : (-17.6503 452.647 1237.16)
+        viscous  : (-0.708132 -0.248301 0.154448)
+        porous   : (0 0 0)
+    sum of moments:
+        pressure : (-348.414 -1680.05 500.735)
+        viscous  : (-0.00819852 -0.181207 -0.355082)
+        porous   : (0 0 0)
+
+Courant Number mean: 0.000579939 max: 0.92401
+Interface Courant Number mean: 1.02009e-05 max: 0.343087
+deltaT = 0.00168867
+Time = 0.496623
+
+PIMPLE: Iteration 1
+Rigid-body motion of the hull
+    Centre of rotation: (2.92954 0 0.0675508)
+    Orientation: (0.993496 0 -0.113867 0 1 0 0.113867 0 0.993496)
+    Linear velocity: (-6.93889e-18 0 -0.318079)
+    Angular velocity: (0 0.205266 0)
+GAMG:  Solving for pcorr, Initial residual = 1, Final residual = 0.000991936, No Iterations 18
+time step continuity errors : sum local = 9.58179e-12, global = -1.85051e-12, cumulative = -2.3377e-10
+smoothSolver:  Solving for alpha.water, Initial residual = 3.49795e-06, Final residual = 1.43901e-12, No Iterations 2
+Phase-1 volume fraction = 0.812204  Min(alpha.water) = -1.97542e-10  Max(alpha.water) = 1
+Applying the previous iteration compression flux
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+Phase-1 volume fraction = 0.812204  Min(alpha.water) = -1.2187e-07  Max(alpha.water) = 1
+GAMG:  Solving for p_rgh, Initial residual = 0.00892987, Final residual = 4.74132e-08, No Iterations 17
+time step continuity errors : sum local = 1.19946e-11, global = -3.3651e-13, cumulative = -2.34106e-10
+PIMPLE: Iteration 2
+Rigid-body motion of the hull
+    Centre of rotation: (2.92954 0 0.0675508)
+    Orientation: (0.993496 0 -0.113867 0 1 0 0.113867 0 0.993496)
+    Linear velocity: (6.93889e-18 0 -0.318069)
+    Angular velocity: (0 0.205278 0)
+GAMG:  Solving for pcorr, Initial residual = 1, Final residual = 0.00094112, No Iterations 32
+time step continuity errors : sum local = 4.21007e-14, global = 3.60844e-15, cumulative = -2.34103e-10
+smoothSolver:  Solving for alpha.water, Initial residual = 2.53338e-06, Final residual = 1.25195e-12, No Iterations 2
+Phase-1 volume fraction = 0.812204  Min(alpha.water) = -1.86565e-10  Max(alpha.water) = 1
+Applying the previous iteration compression flux
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+Phase-1 volume fraction = 0.812204  Min(alpha.water) = -2.20628e-07  Max(alpha.water) = 1
+GAMG:  Solving for p_rgh, Initial residual = 0.000170318, Final residual = 4.8397e-08, No Iterations 11
+time step continuity errors : sum local = 1.22246e-11, global = 2.02523e-13, cumulative = -2.339e-10
+PIMPLE: Iteration 3
+Rigid-body motion of the hull
+    Centre of rotation: (2.92954 0 0.0675508)
+    Orientation: (0.993496 0 -0.113867 0 1 0 0.113867 0 0.993496)
+    Linear velocity: (0 0 -0.318081)
+    Angular velocity: (0 0.205264 0)
+GAMG:  Solving for pcorr, Initial residual = 1, Final residual = 0.00094375, No Iterations 34
+time step continuity errors : sum local = 4.41819e-14, global = -9.48799e-16, cumulative = -2.33901e-10
+smoothSolver:  Solving for alpha.water, Initial residual = 2.53041e-06, Final residual = 1.2487e-12, No Iterations 2
+Phase-1 volume fraction = 0.812204  Min(alpha.water) = -1.86036e-10  Max(alpha.water) = 1
+Applying the previous iteration compression flux
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+Phase-1 volume fraction = 0.812204  Min(alpha.water) = -3.06696e-08  Max(alpha.water) = 1
+GAMG:  Solving for p_rgh, Initial residual = 7.7264e-05, Final residual = 3.52636e-08, No Iterations 9
+time step continuity errors : sum local = 8.84733e-12, global = -7.50882e-14, cumulative = -2.33976e-10
+smoothSolver:  Solving for omega, Initial residual = 6.24653e-05, Final residual = 2.63821e-09, No Iterations 1
+smoothSolver:  Solving for k, Initial residual = 7.3227e-05, Final residual = 1.0259e-08, No Iterations 1
+ExecutionTime = 3272.92 s  ClockTime = 3281 s
+
+forces forces write:
+    sum of forces:
+        pressure : (-16.7079 453.898 1239.27)
+        viscous  : (-0.708111 -0.250261 0.157877)
+        porous   : (0 0 0)
+    sum of moments:
+        pressure : (-349.431 -1683.09 502.538)
+        viscous  : (-0.00942712 -0.184995 -0.357869)
+        porous   : (0 0 0)
+
+Courant Number mean: 0.000579708 max: 2.88772
+Interface Courant Number mean: 1.02172e-05 max: 0.337477
+deltaT = 0.000562891
+Time = 0.498874
+
+PIMPLE: Iteration 1
+Rigid-body motion of the hull
+    Centre of rotation: (2.92954 0 0.0673717)
+    Orientation: (0.993483 0 -0.113982 0 1 0 0.113982 0 0.993483)
+    Linear velocity: (-6.93889e-18 0 -0.31818)
+    Angular velocity: (0 0.205005 0)
+GAMG:  Solving for pcorr, Initial residual = 1, Final residual = 0.000840065, No Iterations 19
+time step continuity errors : sum local = 1.02382e-12, global = -2.18783e-13, cumulative = -2.34195e-10
+smoothSolver:  Solving for alpha.water, Initial residual = 1.1635e-06, Final residual = 7.56408e-11, No Iterations 1
+Phase-1 volume fraction = 0.812204  Min(alpha.water) = -4.0753e-12  Max(alpha.water) = 1
+Applying the previous iteration compression flux
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+Phase-1 volume fraction = 0.812204  Min(alpha.water) = -4.97619e-09  Max(alpha.water) = 1
+GAMG:  Solving for p_rgh, Initial residual = 0.00468708, Final residual = 4.44778e-08, No Iterations 34
+time step continuity errors : sum local = 1.38014e-12, global = -3.07433e-13, cumulative = -2.34502e-10
+PIMPLE: Iteration 2
+Rigid-body motion of the hull
+    Centre of rotation: (2.92954 0 0.0673717)
+    Orientation: (0.993483 0 -0.113982 0 1 0 0.113982 0 0.993483)
+    Linear velocity: (0 0 -0.31804)
+    Angular velocity: (0 0.20517 0)
+GAMG:  Solving for pcorr, Initial residual = 1, Final residual = 0.000885962, No Iterations 23
+time step continuity errors : sum local = 5.04417e-14, global = 1.389e-14, cumulative = -2.34488e-10
+smoothSolver:  Solving for alpha.water, Initial residual = 8.42547e-07, Final residual = 4.76315e-11, No Iterations 1
+Phase-1 volume fraction = 0.812204  Min(alpha.water) = -4.0782e-12  Max(alpha.water) = 1
+Applying the previous iteration compression flux
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+Phase-1 volume fraction = 0.812204  Min(alpha.water) = -3.30748e-10  Max(alpha.water) = 1
+GAMG:  Solving for p_rgh, Initial residual = 0.00170739, Final residual = 4.62916e-08, No Iterations 22
+time step continuity errors : sum local = 1.68843e-12, global = 1.06867e-13, cumulative = -2.34381e-10
+PIMPLE: Iteration 3
+Rigid-body motion of the hull
+    Centre of rotation: (2.92954 0 0.0673717)
+    Orientation: (0.993483 0 -0.113982 0 1 0 0.113982 0 0.993483)
+    Linear velocity: (6.93889e-18 0 -0.318009)
+    Angular velocity: (0 0.205208 0)
+GAMG:  Solving for pcorr, Initial residual = 1, Final residual = 0.000919737, No Iterations 27
+time step continuity errors : sum local = 1.83381e-14, global = 2.1643e-15, cumulative = -2.34379e-10
+smoothSolver:  Solving for alpha.water, Initial residual = 8.42592e-07, Final residual = 4.7664e-11, No Iterations 1
+Phase-1 volume fraction = 0.812204  Min(alpha.water) = -4.07298e-12  Max(alpha.water) = 1
+Applying the previous iteration compression flux
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+MULES: Correcting alpha.water
+Phase-1 volume fraction = 0.812204  Min(alpha.water) = -2.21874e-10  Max(alpha.water) = 1
+GAMG:  Solving for p_rgh, Initial residual = 0.00592386, Final residual = 4.17205e-08, No Iterations 28
+time step continuity errors : sum local = 1.44773e-12, global = -5.3634e-14, cumulative = -2.34433e-10
+smoothSolver:  Solving for omega, Initial residual = 2.08536e-05, Final residual = 4.30231e-09, No Iterations 1
+smoothSolver:  Solving for k, Initial residual = 2.4305e-05, Final residual = 7.36359e-10, No Iterations 1
+ExecutionTime = 3288.58 s  ClockTime = 3297 s
+
+forces forces write:
+    sum of forces:
+        pressure : (15.6634 497.757 1512.15)
+        viscous  : (-0.708157 -0.251466 0.158637)
+        porous   : (0 0 0)
+    sum of moments:
+        pressure : (-414.118 -1774.29 491.156)
+        viscous  : (-0.00952946 -0.185877 -0.358095)
+        porous   : (0 0 0)
+
+Courant Number mean: 0.000193577 max: 93.0825
+Interface Courant Number mean: 3.39681e-06 max: 0.112641
+deltaT = 6.02022e-06
+Time = 0.49888
+
